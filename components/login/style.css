@@ -3,10 +3,11 @@
     padding: 0px;
 }
 
-
+body{
+    background-color: #223D53;
+}
 .login .container{
     background-color: #223D53;
-    width: 100vw;
     height: 100vh;
     display: flex;
     justify-content:space-between ;
@@ -199,7 +200,7 @@
 }
 
 
-@media (max-width:1000px) and (min-width:800px) {
+@media (max-width:1024px) and (min-width:800px) {
     .corpo{
         width: 800px;
     }
