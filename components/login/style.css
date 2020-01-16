@@ -200,17 +200,16 @@ body{
 }
 
 
-@media (max-width:1024px) and (min-width:800px) {
+@media (max-width:1366px) and (min-width:800px) {
     .corpo{
         width: 800px;
-        margin-top: 7vw;
+        margin-top: 4vw;
         margin-bottom: 2vw;
     }
   }
 
   @media (max-width:800px){
     .corpo{
-
         width: 90%;
         margin-top: 7vw;
         margin-bottom: 2vw;
