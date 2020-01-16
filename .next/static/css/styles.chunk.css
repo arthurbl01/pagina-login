@@ -203,6 +203,8 @@ body{
 @media (max-width:1024px) and (min-width:800px) {
     .corpo{
         width: 800px;
+        margin-top: 7vw;
+        margin-bottom: 2vw;
     }
   }
 
@@ -210,7 +212,8 @@ body{
     .corpo{
 
         width: 90%;
-        margin: 5% 5%;
+        margin-top: 7vw;
+        margin-bottom: 2vw;
     }
     .l-esquerdo{
         display: none;
